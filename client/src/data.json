@@ -1,0 +1,40 @@
+{
+    "cc0f2086-2dc7-4bec-b35b-9079780d593c": {
+      "name": "«Microdosis» Cerveza lúpulada",
+      "store": "Hasta Pronto",
+      "price": 15000,
+      "units-in-pack": 6,
+      "fast-shipping": true,
+      "description": "Microdosis (4,6%) fue pensada y diseñada a partir de nuestra necesidad de cumplir con la dosis diaria de lúpulo, sin el compromiso que significan la mayoría de las IPAs -y que nos vuelan la cabeza-, permitiéndonos volver a lo que estábamos haciendo, con el monstruo ya tranquilo y la cabeza afilada.\n\nEl pack trae:\n6 latas de 473cc x Microdosis – Session IPA",
+      "image": "https://hastapronto.cl/wp-content/uploads/2020/05/6-600x600.png"
+      
+    },
+    "b65c4d1a-5d22-4375-bf20-44ba81d0c1d3": {
+      "name": "«…Y gracias por los lúpulos» West Coast IPA",
+      "store": "Hasta Pronto",
+      "price": 15000,
+      "units-in-pack": 6,
+      "fast-shipping": false,
+      "description": "Inspirados en el disco de NOFX, So Long … And thanks for all the shoes!,  esta IPA representa la diferencia de nuestras cervezas al común de las cervecerías. Queremos hacer las cosas a nuestra y de la mejor manera, llegando así a una bomba de lúpulos en una cerveza con mucha tomabilidad.\n\nEsta cerveza tiene un amargor de intensidad medio alto, evitando la sensación de aspereza y astringencia, que invitan al siguiente trago de esta West Coast IPA.\n\nEl pack trae:\n6 latas de 473cc x …Y Gracias por los lúpulos! (West Coast IPA)",
+      "image": "https://hastapronto.cl/wp-content/uploads/2020/05/1-600x600.png"
+    },
+    "b69c5b19-0615-4913-ac92-84609d50edd9": {
+      "name": "Cloud Juice",
+      "store": "Tamango",
+      "price": 3000,
+      "units-in-pack": 1,
+      "fast-shipping": true,
+      "description": "Hazy IPA de 6,5% ABV con lúpulos rotativos. Para esta versión se usaron los lúpulos Motueka (Nueva Zelanda) y Simcoe (USA), que le otorgan notas cítricas, naranja confitada y un fondo de durazno conservero. Es una cerveza jugosa de dulzor residual bajo, lo que le da un amargor redondo y asertivo.\n\nEsta modalidad de lúpulo rotativo, nos da la oportunidad de jugar con aromas bajo la misma receta de una cerveza. Así ustedes, nuestros queridos clientes, pueden probar e identificar sus lúpulos favoritos.\n\n6 Pack\n6,5% ABV\n355 ml",
+      "image": "https://www.tamango.cl/img/uploads/1tlemkpmj.jpeg"
+    },
+    "9a6dc317-69d8-499a-911d-baa92e52ebda": {
+      "name": "Wiggle Room",
+      "store": "Tamango",
+      "price": 15600,
+      "units-in-pack": 6,
+      "fast-shipping": false,
+      "description": "Considerada la hermana grande de nuestra clásica Green Room. West Coast IPA de aspecto cristalino pero profundamente aromática. Es comer pomelo en un bosque de secuoyas mirando el mar… Puro equilibrio.\n\n6 Pack\n6% ABV\n355 ml",
+      "image": "https://www.tamango.cl/img/uploads/fzy2b3ada.jpeg"
+    }
+  }
+  
