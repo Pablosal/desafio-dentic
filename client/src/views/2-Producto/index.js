@@ -14,7 +14,7 @@ const Producto = () => {
     console.log({ masterData });
   }, []);
   useEffect(() => {
-    fetch(`/api/${product_id}`, {
+    fetch(`https://api-beer-thang.herokuapp.com/api/${product_id}`, {
       headers: {
         "Content-Type": "application/json",
         Accept: "application/json",

@@ -38,7 +38,7 @@ export const computeTotal = () => ({
   type: COMPUTE_TOTAL,
 });
 export const fetchData = () => (dispatch) => {
-  fetch("/api/")
+  fetch("https://api-beer-thang.herokuapp.com/api/")
     .then((res) => res.json())
     .then((res) => {
       dispatch(addToStore(res));
